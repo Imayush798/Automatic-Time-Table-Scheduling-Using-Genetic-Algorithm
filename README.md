@@ -1,4 +1,4 @@
-# Automatic time table scheduler using `genertic Algorithm`
+# Automatic time table scheduler using `Genetic Algorithm`
 ----------------------------------------------------------------------------------------------------------------------------
 ### An innovative timetable generation system using genetic algorithms. This project leverages Python, Django, HTML, and CSS to create an efficient, scalable, and user-friendly system for generating optimized schedules. Demonstrates expertise in AI, problem-solving, and technical versatility.
 
